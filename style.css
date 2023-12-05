@@ -1,0 +1,31 @@
+.bigcontainer{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: rgb(183, 232, 195);
+}
+
+.container2{
+    margin-top: 3%;
+    margin-left: 40%;
+}
+
+.bigcontainer2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    background-color: rgb(183, 232, 195);
+}
+
+.container4{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: rgb(146, 177, 154);
+}
+
+.items{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    margin: 10px;
+}
